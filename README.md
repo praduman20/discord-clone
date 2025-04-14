@@ -1,6 +1,6 @@
-# Thiscord - The discord clone
+# My Message App
 
-A feature-rich Discord clone app showcasing servers, channels (audio/video/text), member roles, and real-time chat with message editing and deletion functionality.
+A feature-rich messaging app showcasing servers, channels (audio/video/text), member roles, and real-time chat with message editing and deletion functionality.
 
 # Table of contents
 
@@ -12,7 +12,7 @@ A feature-rich Discord clone app showcasing servers, channels (audio/video/text)
 
 ## Demo
 
-You can checkout the demo of Sportify [Here](https://thiscord-clone-one.vercel.app)
+You can checkout the demo - [Here]()
 
 ## Installation
 

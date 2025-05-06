@@ -12,7 +12,7 @@ A feature-rich messaging app showcasing servers, channels (audio/video/text), me
 
 ## Demo
 
-You can checkout the demo - [Here]()
+You can checkout the demo - [Here](https://mymessage-two.vercel.app/)
 
 ## Installation
 
